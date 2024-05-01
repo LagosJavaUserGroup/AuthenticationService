@@ -6,8 +6,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class AuthenticationServiceApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(AuthenticationServiceApplication.class, args);
-	}
+    /**
+     * Main entry point for launching this Application.
+     * @param args Arguments
+     */
+    public static void main(final String[] args) {
+        SpringApplication.run(AuthenticationServiceApplication.class, args);
+    }
 
 }

@@ -6,8 +6,11 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class AuthenticationServiceApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    /**
+     * Placeholder Test.
+     */
+    @Test
+    void contextLoads() {
+    }
 
 }
